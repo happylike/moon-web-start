@@ -1,1 +1,3424 @@
-{"data":[{"id":0,"name":"日常","groupList":[{"id":1,"name":"社交","siteList":[{"id":2,"name":"22博","url":"https://weibo.com/","favicon":""},{"id":3,"name":"知乎","url":"https://www.zhihu.com/","favicon":""},{"id":4,"name":"贴吧","url":"https://tieba.baidu.com/","favicon":""},{"id":5,"name":"豆瓣","url":"https://www.douban.com/","favicon":""},{"id":6,"name":"简书","url":"https://www.jianshu.com/","favicon":""},{"id":7,"name":"虎扑","url":"https://bbs.hupu.com/","favicon":""}]},{"id":8,"name":"购物","siteList":[{"id":9,"name":"淘宝网","url":"https://www.taobao.com/","favicon":""},{"id":10,"name":"京东","url":"https://www.jd.com/","favicon":""},{"id":11,"name":"天猫","url":"https://www.tmall.com/","favicon":""},{"id":12,"name":"苏宁易购","url":"https://www.suning.com/","favicon":""},{"id":13,"name":"唯品会","url":"https://www.vip.com/","favicon":""},{"id":14,"name":"天猫超市","url":"https://chaoshi.tmall.com/","favicon":""}]},{"id":15,"name":"视频","siteList":[{"id":16,"name":"腾讯视频","url":"https://v.qq.com/","favicon":""},{"id":17,"name":"爱奇艺","url":"https://www.iqiyi.com/","favicon":""},{"id":18,"name":"优酷","url":"https://www.youku.com/","favicon":""},{"id":19,"name":"芒果TV","url":"https://www.mgtv.com/","favicon":""},{"id":20,"name":"哔哩哔哩","url":"https://www.bilibili.com/","favicon":""},{"id":21,"name":"AcFun","url":"https://www.acfun.cn/","favicon":""}]},{"id":22,"name":"门户","siteList":[{"id":23,"name":"腾讯网","url":"https://www.qq.com/","favicon":""},{"id":24,"name":"网易","url":"https://www.163.com/","favicon":""},{"id":25,"name":"新浪网","url":"https://www.sina.com.cn/","favicon":""},{"id":26,"name":"搜狐","url":"https://www.sohu.com/","favicon":""},{"id":27,"name":"凤凰网","url":"https://www.ifeng.com/","favicon":""},{"id":28,"name":"央视网","url":"https://www.cctv.com/","favicon":""}]},{"id":29,"name":"资讯","siteList":[{"id":30,"name":"今日头条","url":"https://www.toutiao.com/","favicon":""},{"id":31,"name":"ZAKER","url":"https://www.myzaker.com/","favicon":""},{"id":32,"name":"澎湃新闻","url":"https://www.thepaper.cn/","favicon":""},{"id":33,"name":"环球网","url":"https://www.huanqiu.com/","favicon":""},{"id":34,"name":"虎嗅网","url":"https://www.huxiu.com/","favicon":""},{"id":35,"name":"界面新闻","url":"https://www.jiemian.com/","favicon":""}]},{"id":36,"name":"发现","siteList":[{"id":37,"name":"少数派","url":"https://sspai.com/","favicon":""},{"id":38,"name":"数字尾巴","url":"https://www.dgtle.com/","favicon":""},{"id":39,"name":"爱范儿","url":"https://www.ifanr.com/","favicon":""},{"id":40,"name":"煎蛋","url":"https://jandan.net/","favicon":""},{"id":41,"name":"即刻","url":"https://web.okjike.com/","favicon":""},{"id":42,"name":"V2EX","url":"https://www.v2ex.com/","favicon":""}]},{"id":43,"name":"生活","siteList":[{"id":44,"name":"携程旅行","url":"https://www.ctrip.com/","favicon":""},{"id":45,"name":"飞猪旅行","url":"https://www.fliggy.com/","favicon":""},{"id":46,"name":"美团","url":"https://www.meituan.com/","favicon":""},{"id":47,"name":"大众点评","url":"https://www.dianping.com/","favicon":""},{"id":48,"name":"58同城","url":"https://58.com/","favicon":""},{"id":49,"name":"中国铁路","url":"https://www.12306.cn/index/","favicon":""}]},{"id":50,"name":"便捷","siteList":[{"id":51,"name":"DeepL翻译","url":"https://www.deepl.com/","favicon":""},{"id":52,"name":"百度地图","url":"https://map.baidu.com/","favicon":""},{"id":53,"name":"微信网页版","url":"https://wx.qq.com/","favicon":""},{"id":54,"name":"快递查询","url":"https://www.kuaidi100.com/","favicon":""},{"id":55,"name":"在线转换","url":"https://cn.office-converter.com/","favicon":""},{"id":56,"name":"文件分享","url":"https://wormhole.app/","favicon":""}]}]},{"id":57,"name":"娱乐","groupList":[{"id":58,"name":"发现","siteList":[{"id":59,"name":"36Kr","url":"https://www.36kr.com/","favicon":""},{"id":60,"name":"Solidot","url":"https://www.solidot.org/","favicon":""},{"id":61,"name":"cnBeta","url":"https://www.cnbeta.com/","favicon":""},{"id":62,"name":"天涯社区","url":"https://bbs.tianya.cn/","favicon":""},{"id":63,"name":"Chiphell","url":"https://www.chiphell.com/","favicon":""},{"id":64,"name":"小鸡词典","url":"https://jikipedia.com/","favicon":""}]},{"id":65,"name":"直播","siteList":[{"id":66,"name":"斗鱼","url":"https://www.douyu.com/","favicon":""},{"id":67,"name":"虎牙直播","url":"https://www.huya.com/","favicon":""},{"id":68,"name":"YY直播","url":"https://www.yy.com/","favicon":""},{"id":69,"name":"花椒直播","url":"https://www.huajiao.com/","favicon":""},{"id":70,"name":"映客直播","url":"https://www.inke.cn/","favicon":""},{"id":71,"name":"iPanda","url":"https://www.ipanda.com/","favicon":""}]},{"id":72,"name":"视频","siteList":[{"id":73,"name":"抖音","url":"https://www.douyin.com/","favicon":""},{"id":74,"name":"快手","url":"https://www.kuaishou.com/","favicon":""},{"id":75,"name":"西瓜视频","url":"https://www.ixigua.com/","favicon":""},{"id":76,"name":"电影天堂","url":"https://www.dytt8.net/","favicon":""},{"id":77,"name":"豆瓣电影","url":"https://movie.douban.com/","favicon":""},{"id":78,"name":"YouTube","url":"https://www.youtube.com/","favicon":""}]},{"id":79,"name":"音乐","siteList":[{"id":80,"name":"QQ音乐","url":"https://y.qq.com/","favicon":""},{"id":81,"name":"网易云音乐","url":"https://music.163.com/","favicon":""},{"id":82,"name":"酷狗音乐","url":"https://www.kugou.com/","favicon":""},{"id":83,"name":"咪咕音乐","url":"https://music.migu.cn/","favicon":""},{"id":84,"name":"酷我音乐","url":"https://www.kuwo.cn/","favicon":""},{"id":85,"name":"5sing","url":"http://5sing.kugou.com/","favicon":""}]},{"id":86,"name":"动漫","siteList":[{"id":87,"name":"腾讯动漫","url":"https://ac.qq.com/","favicon":""},{"id":88,"name":"快看漫画","url":"https://www.kuaikanmanhua.com/","favicon":""},{"id":89,"name":"有妖气","url":"https://www.u17.com/","favicon":""},{"id":90,"name":"哔哩哔哩漫画","url":"https://manga.bilibili.com/","favicon":""},{"id":91,"name":"半次元","url":"https://bcy.net/","favicon":""},{"id":92,"name":"看漫画","url":"https://www.kanman.com/","favicon":""}]},{"id":93,"name":"游戏","siteList":[{"id":94,"name":"Steam","url":"https://store.steampowered.com/","favicon":""},{"id":95,"name":"Nintendo","url":"https://www.nintendo.co.jp/","favicon":""},{"id":96,"name":"PlayStation","url":"https://www.playstation.com/","favicon":""},{"id":97,"name":"Xbox","url":"https://www.xbox.com/","favicon":""},{"id":98,"name":"NGA论坛","url":"https://bbs.nga.cn/","favicon":""},{"id":99,"name":"游民星空","url":"https://www.gamersky.com/","favicon":""}]},{"id":100,"name":"体育","siteList":[{"id":101,"name":"腾讯体育","url":"https://sports.qq.com/","favicon":""},{"id":102,"name":"新浪体育","url":"https://sports.sina.com.cn/","favicon":""},{"id":103,"name":"央视体育","url":"https://sports.cctv.com/","favicon":""},{"id":104,"name":"虎扑","url":"https://www.hupu.com/","favicon":""},{"id":105,"name":"直播吧","url":"https://www.zhibo8.cc/","favicon":""},{"id":106,"name":"NBA中国","url":"https://china.nba.com/","favicon":""}]},{"id":107,"name":"文学","siteList":[{"id":108,"name":"起点中文网","url":"https://www.qidian.com/","favicon":""},{"id":109,"name":"纵横中文网","url":"https://www.zongheng.com/","favicon":""},{"id":110,"name":"红袖添香","url":"https://www.hongxiu.com/","favicon":""},{"id":111,"name":"网易云阅读","url":"https://yuedu.163.com/","favicon":""},{"id":112,"name":"豆瓣阅读","url":"https://read.douban.com/","favicon":""},{"id":113,"name":"喜马拉雅","url":"https://www.ximalaya.com/","favicon":""}]}]},{"id":114,"name":"生活","groupList":[{"id":115,"name":"购物","siteList":[{"id":116,"name":"网易严选","url":"https://you.163.com/","favicon":""},{"id":117,"name":"考拉海购","url":"https://www.kaola.com/","favicon":""},{"id":118,"name":"阿里巴巴","url":"https://www.1688.com/","favicon":""},{"id":119,"name":"当当网","url":"https://www.dangdang.com/","favicon":""},{"id":120,"name":"国美在线","url":"https://www.gome.com.cn/","favicon":""},{"id":121,"name":"亚马逊中国","url":"https://www.amazon.cn/","favicon":""}]},{"id":122,"name":"出行","siteList":[{"id":123,"name":"携程旅行","url":"https://www.ctrip.com/","favicon":""},{"id":124,"name":"飞猪旅行","url":"https://www.fliggy.com/","favicon":""},{"id":125,"name":"去哪儿","url":"https://www.qunar.com/","favicon":""},{"id":126,"name":"爱彼迎","url":"https://www.airbnb.cn/","favicon":""},{"id":127,"name":"中国铁路","url":"https://www.12306.cn/index/","favicon":""},{"id":128,"name":"马蜂窝","url":"https://www.mafengwo.cn/","favicon":""}]},{"id":129,"name":"工作","siteList":[{"id":130,"name":"BOSS直聘","url":"https://www.zhipin.com/","favicon":""},{"id":131,"name":"拉勾网","url":"https://www.lagou.com/","favicon":""},{"id":132,"name":"前程无忧","url":"https://www.51job.com/","favicon":""},{"id":133,"name":"智联招聘","url":"https://www.zhaopin.com/","favicon":""},{"id":134,"name":"猎聘","url":"https://www.liepin.com/","favicon":""},{"id":135,"name":"LinkedIn","url":"https://www.linkedin.com/","favicon":""}]},{"id":136,"name":"美食","siteList":[{"id":137,"name":"下厨房","url":"https://www.xiachufang.com/","favicon":""},{"id":138,"name":"美食天下","url":"https://www.meishichina.com/","favicon":""},{"id":139,"name":"美食杰","url":"https://www.meishij.net/","favicon":""},{"id":140,"name":"豆果美食","url":"https://www.douguo.com/","favicon":""},{"id":141,"name":"央视美食","url":"https://food.cctv.com/","favicon":""},{"id":142,"name":"三菜一汤","url":"https://www.3c1t.com/","favicon":""}]},{"id":143,"name":"健康","siteList":[{"id":144,"name":"丁香医生","url":"https://dxy.com/","favicon":""},{"id":145,"name":"默沙东","url":"https://www.msdmanuals.cn/","favicon":""},{"id":146,"name":"丁香园","url":"https://portal.dxy.cn/","favicon":""},{"id":147,"name":"用药助手","url":"https://drugs.dxy.cn/","favicon":""},{"id":148,"name":"Cochrane","url":"https://www.cochrane.org/zh-hans/evidence","favicon":""},{"id":149,"name":"国家药品查询","url":"https://www.nmpa.gov.cn/datasearch/","favicon":""}]},{"id":150,"name":"汽车","siteList":[{"id":151,"name":"汽车之家","url":"https://www.autohome.com.cn/","favicon":""},{"id":152,"name":"易车网","url":"https://www.yiche.com/","favicon":""},{"id":153,"name":"懂车帝","url":"https://www.dongchedi.com/","favicon":""},{"id":154,"name":"太平洋汽车","url":"https://www.pcauto.com.cn/","favicon":""},{"id":155,"name":"爱卡汽车","url":"https://www.xcar.com.cn/","favicon":""},{"id":156,"name":"网易汽车","url":"https://auto.163.com/","favicon":""}]},{"id":157,"name":"财经","siteList":[{"id":158,"name":"财新网","url":"https://www.caixin.com/","favicon":""},{"id":159,"name":"格隆汇","url":"https://www.gelonghui.com/","favicon":""},{"id":160,"name":"华尔街日报","url":"https://cn.wsj.com/","favicon":""},{"id":161,"name":"雪球网","url":"https://xueqiu.com/","favicon":""},{"id":162,"name":"金十数据","url":"https://www.jin10.com/","favicon":""},{"id":163,"name":"雅虎财经","url":"https://hk.finance.yahoo.com/","favicon":""}]},{"id":164,"name":"便民","siteList":[{"id":165,"name":"天气预报","url":"https://www.windy.com/","favicon":""},{"id":166,"name":"工商查询","url":"https://www.gsxt.gov.cn/","favicon":""},{"id":167,"name":"电话查询","url":"https://www.114best.com/","favicon":""},{"id":168,"name":"网速测试","url":"https://www.speedtest.net/","favicon":""},{"id":169,"name":"卫星地图","url":"https://zoom.earth/","favicon":""},{"id":170,"name":"台风路径","url":"https://typhoon.slt.zj.gov.cn/","favicon":""}]}]},{"id":171,"name":"学习","groupList":[{"id":172,"name":"网课","siteList":[{"id":173,"name":"网易公开课","url":"https://open.163.com/","favicon":""},{"id":174,"name":"网易云课堂","url":"https://study.163.com/","favicon":""},{"id":175,"name":"爱课程","url":"https://www.icourses.cn/","favicon":""},{"id":176,"name":"腾讯课堂","url":"https://ke.qq.com/","favicon":""},{"id":177,"name":"慕课网","url":"https://www.imooc.com/","favicon":""},{"id":178,"name":"中国大学MOOC","url":"https://www.icourse163.org/","favicon":""}]},{"id":179,"name":"文库","siteList":[{"id":180,"name":"百度文库","url":"https://wenku.baidu.com/","favicon":""},{"id":181,"name":"360文库","url":"https://wenku.so.com/","favicon":""},{"id":182,"name":"道客巴巴","url":"https://www.doc88.com/","favicon":""},{"id":183,"name":"豆丁网","url":"https://www.docin.com/","favicon":""},{"id":184,"name":"合同范文","url":"https://cont.12315.cn/","favicon":""},{"id":185,"name":"裁判文书","url":"https://wenshu.court.gov.cn/","favicon":""}]},{"id":186,"name":"学术","siteList":[{"id":187,"name":"百度学术","url":"https://xueshu.baidu.com/","favicon":""},{"id":188,"name":"谷歌学术","url":"https://scholar.google.com/","favicon":""},{"id":189,"name":"中国知网","url":"https://www.cnki.net/","favicon":""},{"id":190,"name":"万方数据","url":"https://www.wanfangdata.com.cn/","favicon":""},{"id":191,"name":"维普网","url":"http://www.cqvip.com/","favicon":""},{"id":192,"name":"搜狗学术","url":"https://scholar.sogou.com/","favicon":""}]},{"id":193,"name":"词典","siteList":[{"id":194,"name":"有道词典","url":"https://www.youdao.com/","favicon":""},{"id":195,"name":"剑桥词典","url":"https://dictionary.cambridge.org/zhs/","favicon":""},{"id":196,"name":"柯林斯词典","url":"https://www.collinsdictionary.com/zh/","favicon":""},{"id":197,"name":"汉语词典","url":"https://www.zdic.net/","favicon":""},{"id":198,"name":"维基词典","url":"https://zh.wiktionary.org/","favicon":""},{"id":199,"name":"中日词典","url":"https://cjjc.weblio.jp/","favicon":""}]},{"id":200,"name":"资讯","siteList":[{"id":201,"name":"腾讯教育","url":"https://new.qq.com/ch/edu/","favicon":""},{"id":202,"name":"搜狐教育","url":"https://learning.sohu.com/","favicon":""},{"id":203,"name":"网易教育","url":"https://edu.163.com/","favicon":""},{"id":204,"name":"中国教育在线","url":"https://www.eol.cn/","favicon":""},{"id":205,"name":"沪江英语","url":"https://www.hjenglish.com/","favicon":""},{"id":206,"name":"无忧考网","url":"https://www.51test.net/","favicon":""}]},{"id":207,"name":"模考","siteList":[{"id":208,"name":"考满分","url":"https://www.kmf.com/","favicon":""},{"id":209,"name":"会计题库","url":"https://www.chinaacc.com/tiku/","favicon":""},{"id":210,"name":"LeetCode","url":"https://leetcode-cn.com/","favicon":""},{"id":211,"name":"打字练习","url":"https://www.typing.com/student","favicon":""},{"id":212,"name":"驾校一点通","url":"https://www.jxedt.com/","favicon":""},{"id":213,"name":"驾考宝典","url":"https://www.jiakaobaodian.com/","favicon":""}]},{"id":214,"name":"便捷","siteList":[{"id":215,"name":"多邻国","url":"https://www.duolingo.cn/","favicon":""},{"id":216,"name":"幕布","url":"https://mubu.com/","favicon":""},{"id":217,"name":"石墨文档","url":"https://shimo.im/","favicon":""},{"id":218,"name":"损坏文件生成","url":"https://www.fakefilegenerator.com/generate-file.php","favicon":""},{"id":219,"name":"内容对比","url":"https://www.diffchecker.com/","favicon":""},{"id":220,"name":"WolframAlpha","url":"https://www.wolframalpha.com/","favicon":""}]},{"id":221,"name":"查询","siteList":[{"id":222,"name":"学信网","url":"https://www.chsi.com.cn/","favicon":""},{"id":223,"name":"普通话水平","url":"https://www.cltt.org/","favicon":""},{"id":224,"name":"考试报名","url":"https://www.neea.edu.cn/html1/folder/1607/298-1.htm","favicon":""},{"id":225,"name":"成绩查询","url":"https://cjcx.neea.edu.cn/","favicon":""},{"id":226,"name":"证书查询","url":"https://zscx.neea.edu.cn/","favicon":""},{"id":227,"name":"托福网考","url":"https://toefl.neea.cn/","favicon":""}]}]},{"id":228,"name":"开发","groupList":[{"id":229,"name":"社区","siteList":[{"id":230,"name":"StackOverflow","url":"https://stackoverflow.com/","favicon":""},{"id":231,"name":"稀土掘金","url":"https://juejin.cn/","favicon":""},{"id":232,"name":"SegmentFault","url":"https://segmentfault.com/","favicon":""},{"id":233,"name":"V2EX","url":"https://www.v2ex.com/","favicon":""},{"id":234,"name":"ProductHunt","url":"https://www.producthunt.com/","favicon":""},{"id":235,"name":"HackerNews","url":"https://news.ycombinator.com/","favicon":""}]},{"id":236,"name":"平台","siteList":[{"id":237,"name":"GitHub","url":"https://github.com/","favicon":""},{"id":238,"name":"Gitee","url":"https://gitee.com/","favicon":""},{"id":239,"name":"GitLab","url":"https://gitlab.com/","favicon":""},{"id":240,"name":"Coding","url":"https://coding.net/","favicon":""},{"id":241,"name":"CodePen","url":"https://codepen.io/","favicon":""},{"id":242,"name":"Notion","url":"https://www.notion.so/","favicon":""}]},{"id":243,"name":"云计算","siteList":[{"id":244,"name":"阿里云","url":"https://www.aliyun.com/","favicon":""},{"id":245,"name":"腾讯云","url":"https://cloud.tencent.com/","favicon":""},{"id":246,"name":"AWS","url":"https://aws.amazon.com/","favicon":""},{"id":247,"name":"GoogleCloud","url":"https://cloud.google.com/","favicon":""},{"id":248,"name":"Azure","url":"https://azure.microsoft.com/","favicon":""},{"id":249,"name":"Cloudflare","url":"https://www.cloudflare.com/","favicon":""}]},{"id":250,"name":"工具","siteList":[{"id":251,"name":"IPIP.NET","url":"https://www.ipip.net/","favicon":""},{"id":252,"name":"NameBeta","url":"https://namebeta.com/","favicon":""},{"id":253,"name":"VirusTotal","url":"https://www.virustotal.com/","favicon":""},{"id":254,"name":"RegExr","url":"https://regexr.com/","favicon":""},{"id":255,"name":"ProcessOn","url":"https://processon.com/","favicon":""},{"id":256,"name":"Can I use","url":"https://caniuse.com/","favicon":""}]},{"id":257,"name":"分析","siteList":[{"id":258,"name":"Ping.pe","url":"https://ping.pe/","favicon":""},{"id":259,"name":"17CE","url":"https://17ce.com/","favicon":""},{"id":260,"name":"SimilarWeb","url":"https://www.similarweb.com/","favicon":""},{"id":261,"name":"SimilarSites","url":"https://www.similarsites.com/","favicon":""},{"id":262,"name":"PageSpeed","url":"https://pagespeed.web.dev/","favicon":""},{"id":263,"name":"WebPageTest","url":"https://webpagetest.org/","favicon":""}]},{"id":264,"name":"文档","siteList":[{"id":265,"name":"MDN","url":"https://developer.mozilla.org/","favicon":""},{"id":266,"name":"Android文档","url":"https://developer.android.com/docs","favicon":""},{"id":267,"name":"Apple文档","url":"https://developer.apple.com/cn/documentation/","favicon":""},{"id":268,"name":"W3school","url":"https://www.w3school.com.cn/","favicon":""},{"id":269,"name":"jQuery中文","url":"https://www.jquery123.com/","favicon":""},{"id":270,"name":"Vue.js","url":"https://cn.vuejs.org/","favicon":""}]},{"id":271,"name":"博文","siteList":[{"id":272,"name":"阮一峰博客","url":"https://www.ruanyifeng.com/blog/","favicon":""},{"id":273,"name":"王垠博客","url":"https://www.yinwang.org/","favicon":""},{"id":274,"name":"张鑫旭博客","url":"https://www.zhangxinxu.com/","favicon":""},{"id":275,"name":"美团技术团队","url":"https://tech.meituan.com/","favicon":""},{"id":276,"name":"凹凸实验室","url":"https://aotu.io/","favicon":""},{"id":277,"name":"CSS-Tricks","url":"https://css-tricks.com/","favicon":""}]},{"id":278,"name":"资源","siteList":[{"id":279,"name":"npm","url":"https://www.npmjs.com/","favicon":""},{"id":280,"name":"Docker Hub","url":"https://hub.docker.com/","favicon":""},{"id":281,"name":"Homebrew","url":"https://formulae.brew.sh/","favicon":""},{"id":282,"name":"异次元","url":"https://www.iplaysoft.com/","favicon":""},{"id":283,"name":"Internet Archive","url":"https://archive.org/","favicon":""},{"id":284,"name":"免費資源網路社群","url":"https://free.com.tw/","favicon":""}]}]},{"id":285,"name":"设计","groupList":[{"id":286,"name":"灵感","siteList":[{"id":287,"name":"Dribbble","url":"https://dribbble.com/","favicon":""},{"id":288,"name":"Behance","url":"https://www.behance.net/","favicon":""},{"id":289,"name":"站酷","url":"https://www.zcool.com.cn/","favicon":""},{"id":290,"name":"UICN","url":"https://www.ui.cn/","favicon":""},{"id":291,"name":"Land-book","url":"https://land-book.com/","favicon":""},{"id":292,"name":"Muzli","url":"https://muz.li/","favicon":""}]},{"id":293,"name":"图库","siteList":[{"id":294,"name":"Unsplash","url":"https://unsplash.com/","favicon":""},{"id":295,"name":"Pinterest","url":"https://www.pinterest.com/","favicon":""},{"id":296,"name":"Pixabay","url":"https://pixabay.com/","favicon":""},{"id":297,"name":"花瓣","url":"https://huaban.com/","favicon":""},{"id":298,"name":"500px","url":"https://500px.com/","favicon":""},{"id":299,"name":"SplitShire","url":"https://www.splitshire.com/","favicon":""}]},{"id":300,"name":"素材","siteList":[{"id":301,"name":"Freepik","url":"https://www.freepik.com/","favicon":""},{"id":302,"name":"千图网","url":"https://www.58pic.com/","favicon":""},{"id":303,"name":"昵图网","url":"https://www.nipic.com/","favicon":""},{"id":304,"name":"Pexels","url":"https://www.pexels.com/","favicon":""},{"id":305,"name":"Shutterstock","url":"https://www.shutterstock.com/","favicon":""},{"id":306,"name":"Themeforest","url":"https://themeforest.net/","favicon":""}]},{"id":307,"name":"图标","siteList":[{"id":308,"name":"Flaticon","url":"https://www.flaticon.com/","favicon":""},{"id":309,"name":"iconfont","url":"https://www.iconfont.cn/","favicon":""},{"id":310,"name":"Iconfinder","url":"https://www.iconfinder.com/","favicon":""},{"id":311,"name":"NounProject","url":"https://thenounproject.com/","favicon":""},{"id":312,"name":"Icons8","url":"https://icons8.com/","favicon":""},{"id":313,"name":"CSS Icons","url":"https://css.gg/","favicon":""}]},{"id":314,"name":"颜色","siteList":[{"id":315,"name":"Adobe Color","url":"https://color.adobe.com/","favicon":""},{"id":316,"name":"ColorHunt","url":"https://colorhunt.co/","favicon":""},{"id":317,"name":"Coolors","url":"https://coolors.co/","favicon":""},{"id":318,"name":"WebGradients","url":"https://webgradients.com/","favicon":""},{"id":319,"name":"Colllor","url":"http://colllor.com/","favicon":""},{"id":320,"name":"ColourCode","url":"https://www.toptal.com/designers/colourcode","favicon":""}]},{"id":321,"name":"工具","siteList":[{"id":322,"name":"在线PS","url":"https://ps.gaoding.com/","favicon":""},{"id":323,"name":"格式转换","url":"https://cloudconvert.com/","favicon":""},{"id":324,"name":"TinyPNG","url":"https://tinypng.com/","favicon":""},{"id":325,"name":"求字体","url":"https://www.qiuziti.com/","favicon":""},{"id":326,"name":"矢量图转换","url":"https://vectormagic.com/","favicon":""},{"id":327,"name":"贝塞尔曲线练习","url":"https://bezier.method.ac/","favicon":""}]},{"id":328,"name":"规范","siteList":[{"id":329,"name":"Android","url":"https://developer.android.com/design","favicon":""},{"id":330,"name":"Apple","url":"https://developer.apple.com/design/","favicon":""},{"id":331,"name":"Google","url":"https://design.google/","favicon":""},{"id":332,"name":"Microsoft","url":"https://www.microsoft.com/design","favicon":""},{"id":333,"name":"Material","url":"https://material.io/","favicon":""},{"id":334,"name":"Ant Design","url":"https://ant.design/","favicon":""}]},{"id":335,"name":"教程","siteList":[{"id":336,"name":"优设网","url":"https://www.uisdc.com/","favicon":""},{"id":337,"name":"站酷学习","url":"https://www.gogoup.com/","favicon":""},{"id":338,"name":"优优教程","url":"https://uiiiuiii.com/","favicon":""},{"id":339,"name":"虎课网","url":"https://huke88.com/","favicon":""},{"id":340,"name":"TUTS+","url":"https://design.tutsplus.com/","favicon":""},{"id":341,"name":"Medium","url":"https://medium.design/","favicon":""}]}]}],"settings":{"theme":"MoonWhite","search":"Bing","iconStyle":"Plain"}}
+{
+    "data": [
+        {
+            "id": 0,
+            "name": "常用法院、检察院、政府",
+            "groupList": [
+                {
+                    "id": 1,
+                    "name": "信息披露",
+                    "siteList": [
+                        {
+                            "id": 2,
+                            "name": "人民法院调解平台",
+                            "url": "http://tiaojie.court.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 3,
+                            "name": "中国庭审公开网",
+                            "url": "http://tingshen.court.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 4,
+                            "name": "裁判文书公开",
+                            "url": "https://wenshu.court.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 5,
+                            "name": "人民法院送达平台",
+                            "url": "https://songda.court.gov.cn/wscx/ws_loginp.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 6,
+                            "name": "中国执行信息公开网",
+                            "url": "http://zxgk.court.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 7,
+                            "name": "中国司法大数据服务网",
+                            "url": "http://data.court.gov.cn/pages/index.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 8,
+                            "name": "全国司法鉴定人和司法鉴定机构查询平台",
+                            "url": "http://www.sfjdml.com/web/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 9,
+                            "name": "人民法院诉讼资产网",
+                            "url": "https://www.rmfysszc.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 10,
+                            "name": "人民法院公告网",
+                            "url": "https://rmfygg.court.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 11,
+                            "name": "最高人民检察院信息公开网",
+                            "url": "https://www.12309.gov.cn/12309/ajxxgk/index.shtml",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 2,
+                    "name": "各地人民法院",
+                    "siteList": [
+                        {
+                            "id": 12,
+                            "name": "最高人民法院",
+                            "url": "https://www.court.gov.cn/index.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 13,
+                            "name": "北京",
+                            "url": "https://bjgy.bjcourt.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 14,
+                            "name": "天津",
+                            "url": "https://tjfy.tjcourt.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 15,
+                            "name": "河北",
+                            "url": "http://www.hebeicourt.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 16,
+                            "name": "山西",
+                            "url": "http://sxgy.shanxify.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 17,
+                            "name": "内蒙古",
+                            "url": "http://gy.nmgfy.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 18,
+                            "name": "辽宁",
+                            "url": "http://ln.lncourt.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 19,
+                            "name": "吉林",
+                            "url": "http://jlfy.e-court.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 20,
+                            "name": "黑龙江",
+                            "url": "http://www.hljcourt.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 21,
+                            "name": "上海",
+                            "url": "http://www.hshfy.sh.cn/shfy/web/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 22,
+                            "name": "江苏",
+                            "url": "http://www.jsfy.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 23,
+                            "name": "安徽",
+                            "url": "http://ahfy.ahcourt.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 24,
+                            "name": "福建",
+                            "url": "https://fjfy.fjcourt.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 25,
+                            "name": "江西",
+                            "url": "http://jxgy.jxfy.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 26,
+                            "name": "山东",
+                            "url": "http://www.sdcourt.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 27,
+                            "name": "河南",
+                            "url": "http://www.hncourt.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 28,
+                            "name": "湖北",
+                            "url": "http://hubeigy.hbfy.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 29,
+                            "name": "湖南",
+                            "url": "http://hngy.hunancourt.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 30,
+                            "name": "广东",
+                            "url": "http://www.gdcourts.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 31,
+                            "name": "广西",
+                            "url": "http://gxfy.gxcourt.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 32,
+                            "name": "海南",
+                            "url": "http://www.hicourt.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 33,
+                            "name": "重庆",
+                            "url": "http://cqgy.cqfygzfw.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 34,
+                            "name": "四川",
+                            "url": "http://scfy.scssfw.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 35,
+                            "name": "贵州",
+                            "url": "http://www.guizhoucourt.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 36,
+                            "name": "云南",
+                            "url": "http://fy.yngy.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 37,
+                            "name": "西藏",
+                            "url": "http://xzgy.xzcourt.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 38,
+                            "name": "陕西",
+                            "url": "http://sxgy.sxfywcourt.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 39,
+                            "name": "甘肃",
+                            "url": "http://www.chinagscourt.gov.cn/index.htm",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 40,
+                            "name": "青海",
+                            "url": "http://qhgy.qhfy.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 41,
+                            "name": "宁夏",
+                            "url": "http://www.nxfy.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 42,
+                            "name": "新疆",
+                            "url": "http://xjfy.xjcourt.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 43,
+                            "name": "新疆兵团",
+                            "url": "http://btfy.btcourt.gov.cn/",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 3,
+                    "name": "网上立案相关",
+                    "siteList": [
+                        {
+                            "id": 44,
+                            "name": "最高人民法院诉讼服务网",
+                            "url": "https://ssfw.court.gov.cn/ssfww/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 45,
+                            "name": "北京互联网法院",
+                            "url": "https://www.bjinternetcourt.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 46,
+                            "name": "天津法院诉讼服务网",
+                            "url": "https://www.tjcourt.gov.cn/tjfyss/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 47,
+                            "name": "河北电子法院",
+                            "url": "http://www.hbdzfy.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 48,
+                            "name": "山西法院诉讼服务网",
+                            "url": "https://www.shanxify.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 49,
+                            "name": "内蒙古法院司法公开网",
+                            "url": "http://www.nmgfy.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 50,
+                            "name": "辽宁法院诉讼服务网",
+                            "url": "https://lnsfw.lnsfy.gov.cn/lnssfw/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 51,
+                            "name": "吉林电子法院",
+                            "url": "http://www.e-court.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 52,
+                            "name": "黑龙江诉讼服务平台",
+                            "url": "http://www.hljcourt.gov.cn/ssfw/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 53,
+                            "name": "上海法院诉讼服务网",
+                            "url": "https://www.hshfy.sh.cn/shwfy/ssfww/index.jsp",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 54,
+                            "name": "江苏法院诉讼服务网",
+                            "url": "https://ssfw.jsfy.gov.cn/#/index",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 55,
+                            "name": "安徽法院诉讼服务网",
+                            "url": "http://www.ahgyss.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 56,
+                            "name": "福建法院网上诉讼服务中心",
+                            "url": "https://ssfw.fjcourt.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 57,
+                            "name": "江西法院审判综合服务平台",
+                            "url": "http://www.jxfy.gov.cn/web/root/index.jsp",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 58,
+                            "name": "山东法院电子诉讼服务网",
+                            "url": "https://sd12368.gov.cn/login",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 59,
+                            "name": "河南法院诉讼服务网",
+                            "url": "http://ssfw.hncourt.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 60,
+                            "name": "湖北法院诉讼服务网",
+                            "url": "https://ssfw.hbfy.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 61,
+                            "name": "湖南网上法院",
+                            "url": "http://dzfy.hunan.gov.cn:8000/hunanwsfy/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 62,
+                            "name": "广东法院诉讼服务网",
+                            "url": "https://ssfw.gdcourts.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 63,
+                            "name": "广西电子法院",
+                            "url": "https://e.gxcourt.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 64,
+                            "name": "海南法院电子诉讼平台",
+                            "url": "http://sfpt.hicourt.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 65,
+                            "name": "重庆法院易诉平台",
+                            "url": "http://www.cqfygzfw.gov.cn/dzfy/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 66,
+                            "name": "四川法院在线诉讼平台",
+                            "url": "https://www.scssfw.gov.cn/#/index",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 67,
+                            "name": "贵州法院电子诉讼平台",
+                            "url": "https://sswy.guizhoucourt.cn/login?fy=3250",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 68,
+                            "name": "云南法院司法信息网",
+                            "url": "https://www.ynfy.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 69,
+                            "name": "西藏（微信小程序：人民法院在线服务（西藏））",
+                            "url": "",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 70,
+                            "name": "陕西法院诉讼服务网",
+                            "url": "http://www.sxgaofa.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 71,
+                            "name": "甘肃法院电子诉讼服务平台",
+                            "url": "https://gssspt.chinagscourt.gov.cn/login?fy=3750",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 72,
+                            "name": "青海网上法院",
+                            "url": "https://www.qhwsfy.gov.cn/wsfy/index.jhtml",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 73,
+                            "name": "宁夏法院电子诉讼平台",
+                            "url": "https://lspt.nxfy.gov.cn/login",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 74,
+                            "name": "新疆诉讼服务网",
+                            "url": "http://www.xjcourt.gov.cn/",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 4,
+                    "name": "各级检察院",
+                    "siteList": [
+                        {
+                            "id": 75,
+                            "name": "北京",
+                            "url": "http://www.bjjc.gov.cn/bjoweb/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 76,
+                            "name": "天津",
+                            "url": "http://www.tj.jcy.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 77,
+                            "name": "河北",
+                            "url": "http://www.he.jcy.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 78,
+                            "name": "山西",
+                            "url": "http://www.sx.jcy.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 79,
+                            "name": "内蒙古",
+                            "url": "http://www.nm.jcy.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 80,
+                            "name": "辽宁",
+                            "url": "http://www.ln.jcy.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 81,
+                            "name": "吉林",
+                            "url": "http://www.jl.jcy.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 82,
+                            "name": "黑龙江",
+                            "url": "http://www.hl.jcy.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 83,
+                            "name": "上海",
+                            "url": "https://www.sh.jcy.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 84,
+                            "name": "江苏",
+                            "url": "http://www.jsjc.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 85,
+                            "name": "浙江",
+                            "url": "http://www.zjjcy.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 86,
+                            "name": "安徽",
+                            "url": "http://www.ah.jcy.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 87,
+                            "name": "福建",
+                            "url": "http://www.fj.jcy.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 88,
+                            "name": "江西",
+                            "url": "http://www.jx.jcy.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 89,
+                            "name": "山东",
+                            "url": "http://www.sdjcy.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 90,
+                            "name": "河南",
+                            "url": "http://www.ha.jcy.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 91,
+                            "name": "湖北",
+                            "url": "http://www.hbjc.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 92,
+                            "name": "湖南",
+                            "url": "http://www.hn.jcy.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 93,
+                            "name": "广东",
+                            "url": "http://www.gd.jcy.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 94,
+                            "name": "广西",
+                            "url": "http://www.gx.jcy.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 95,
+                            "name": "海南",
+                            "url": "http://www.hi.jcy.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 96,
+                            "name": "重庆",
+                            "url": "http://www.cq.jcy.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 97,
+                            "name": "四川",
+                            "url": "http://www.sc.jcy.gov.cn//",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 98,
+                            "name": "贵州",
+                            "url": "http://www.gz.jcy.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 99,
+                            "name": "云南",
+                            "url": "http://www.yn.jcy.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 100,
+                            "name": "西藏",
+                            "url": "http://www.xz.jcy.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 101,
+                            "name": "陕西",
+                            "url": "http://www.sn.jcy.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 102,
+                            "name": "甘肃",
+                            "url": "http://www.jcy.gansu.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 103,
+                            "name": "青海",
+                            "url": "http://www.qh.jcy.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 104,
+                            "name": "宁夏",
+                            "url": "http://www.nx.jcy.gov.cn/QJCY/index.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 105,
+                            "name": "新疆",
+                            "url": "http://www.xj.jcy.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 106,
+                            "name": "新疆兵团",
+                            "url": "http://jcy.xjbt.gov.cn/",
+                            "favicon": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 1,
+            "name": "常用工具",
+            "groupList": [
+                {
+                    "id": 5,
+                    "name": "法律法规及标准",
+                    "siteList": [
+                        {
+                            "id": 107,
+                            "name": "国家法律法规数据库",
+                            "url": "https://flk.npc.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 108,
+                            "name": "中国法院网-法律文库",
+                            "url": "https://www.chinacourt.org/law.shtml",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 109,
+                            "name": "中国法律检索系统",
+                            "url": "https://law.pkulaw.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 110,
+                            "name": "检察法律法规库",
+                            "url": "https://www.spp.gov.cn/spp/flfgk/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 111,
+                            "name": "国务院政策文件库",
+                            "url": "https://www.gov.cn/zhengce/zhengcewenjianku/index.htm",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 112,
+                            "name": "国务院文件库",
+                            "url": "http://www.gov.cn/zhengce/xxgkzl.htm",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 113,
+                            "name": "中国人民银行条法司",
+                            "url": "http://www.pbc.gov.cn/tiaofasi/144941/index.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 114,
+                            "name": "国家标准全文公开系统",
+                            "url": "https://openstd.samr.gov.cn/bzgk/gb/index",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 115,
+                            "name": "国家标准化管理委员会",
+                            "url": "http://www.sac.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 116,
+                            "name": "全国标准信息公共服务平台",
+                            "url": "https://std.samr.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 117,
+                            "name": "中国生态环境部-生态环境标准查询",
+                            "url": "http://www.mee.gov.cn/ywgz/fgbz/bz/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 118,
+                            "name": "证券期货法规数据库系统",
+                            "url": "https://neris.csrc.gov.cn/falvfagui/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 119,
+                            "name": "法律图书馆",
+                            "url": "http://www.law-lib.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 120,
+                            "name": "法律之星",
+                            "url": "http://law1.law-star.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 121,
+                            "name": "知网搜法",
+                            "url": "https://law.cnki.net/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 122,
+                            "name": "商务部流通标准制修订信息管理系统",
+                            "url": "https://ltbzh.mofcom.gov.cn/ltbzh_index.shtml",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 6,
+                    "name": "服务平台",
+                    "siteList": [
+                        {
+                            "id": 123,
+                            "name": "ICP/IP地址/域名信息备案管理系统",
+                            "url": "https://beian.miit.gov.cn/#/Integrated/index",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 124,
+                            "name": "纳税服务平台",
+                            "url": "https://12366.chinatax.gov.cn/sscx/taxpayer/main",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 125,
+                            "name": "工业和信息化部政务服务平台",
+                            "url": "https://ythzxfw.miit.gov.cn/resultQuery",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 126,
+                            "name": "全国建筑市场监管公共服务平台",
+                            "url": "http://jzsc.mohurd.gov.cn/home",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 7,
+                    "name": "商业数据库",
+                    "siteList": [
+                        {
+                            "id": 127,
+                            "name": "元典智库",
+                            "url": "https://www.chineselaw.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 128,
+                            "name": "北大法宝",
+                            "url": "https://www.pkulaw.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 129,
+                            "name": "法信",
+                            "url": "http://www.faxin.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 130,
+                            "name": "威科先行",
+                            "url": "https://law.wkinfo.com.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 131,
+                            "name": "无讼案例",
+                            "url": "https://www.itslaw.com/home",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 132,
+                            "name": "把手案例",
+                            "url": "https://www.lawsdata.com/#/home",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 133,
+                            "name": "海关法库",
+                            "url": "https://www.customslawyer.cn/portal/fgk",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 8,
+                    "name": "案例查找",
+                    "siteList": [
+                        {
+                            "id": 134,
+                            "name": "聚法司法案例",
+                            "url": "https://www.jufaanli.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 135,
+                            "name": "中国裁判文书网",
+                            "url": "https://wenshu.court.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 136,
+                            "name": "中国庭审公开网",
+                            "url": "http://tingshen.court.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 137,
+                            "name": "中国仲裁网",
+                            "url": "http://www.china-arbitration.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 138,
+                            "name": "人民法院公告网",
+                            "url": "https://rmfygg.court.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 139,
+                            "name": "检察院案件信息公开网",
+                            "url": "https://www.12309.gov.cn/12309/ajxxgk/index.shtml",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 140,
+                            "name": "中国司法案例网",
+                            "url": "https://anli.court.gov.cn/static/web/index.html#/index",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 141,
+                            "name": "最高人民法院指导案例",
+                            "url": "https://www.court.gov.cn/shenpan-gengduo-77.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 142,
+                            "name": "最高人民法院典型案例",
+                            "url": "https://www.court.gov.cn/zixun-gengduo-104.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 143,
+                            "name": "最高人民法院公报",
+                            "url": "http://gongbao.court.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 144,
+                            "name": "中国市场监管行政处罚文书网",
+                            "url": "https://cfws.samr.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 145,
+                            "name": "中国法院网——指导案例",
+                            "url": "https://www.chinacourt.org/article/subjectdetail/type/more/id/MzAwNEiqNACSYAAA.shtml",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 9,
+                    "name": "行政处罚",
+                    "siteList": [
+                        {
+                            "id": 146,
+                            "name": "行政处罚文书网",
+                            "url": "https://cfws.samr.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 147,
+                            "name": "国家市场监管总局反垄断执法一司",
+                            "url": "https://www.samr.gov.cn/fldys/ajgs/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 148,
+                            "name": "国家市场监管总局反垄断执法二司",
+                            "url": "https://www.samr.gov.cn/fldes/ajgs/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 149,
+                            "name": "重大税收违法失信案件信息公布栏",
+                            "url": "https://www.chinatax.gov.cn/chinatax/c101249/n2020011502/index.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 150,
+                            "name": "政府采购严重违法失信行为记录名单",
+                            "url": "http://www.ccgp.gov.cn/search/cr/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 151,
+                            "name": "全国企业破产重整案件信息网",
+                            "url": "https://pccz.court.gov.cn/pcajxxw/pctzr/tzrdh?lx=1",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 152,
+                            "name": "国家金融监管管理总局",
+                            "url": "https://www.cbirc.gov.cn/cn/view/pages/ItemList.html?itemPId=923&itemId=931&itemUrl=zhengwuxinxi/xingzhengchufa.html&itemName=%E8%A1%8C%E6%94%BF%E5%A4%84%E7%BD%9A",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 10,
+                    "name": "仲裁信息",
+                    "siteList": [
+                        {
+                            "id": 153,
+                            "name": "中国国际经济贸易仲裁委员会",
+                            "url": "http://www.cietac.org.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 154,
+                            "name": "中国海事仲裁委员会",
+                            "url": "http://www.cmac.org.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 155,
+                            "name": "北京国际仲裁中心",
+                            "url": "https://test.bjac.org.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 156,
+                            "name": "上海国际仲裁中心",
+                            "url": "https://www.shiac.org/SHIAC/index.aspx",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 157,
+                            "name": "深圳国际仲裁院",
+                            "url": "http://www.scia.com.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 158,
+                            "name": "海南国际仲裁院",
+                            "url": "https://www.hnac.org.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 159,
+                            "name": "香港国际仲裁中心",
+                            "url": "https://www.hkiac.org/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 160,
+                            "name": "中国仲裁网",
+                            "url": "http://www.china-arbitration.com/",
+                            "favicon": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "查信息",
+            "groupList": [
+                {
+                    "id": 11,
+                    "name": "信息披露",
+                    "siteList": [
+                        {
+                            "id": 161,
+                            "name": "中国裁判信息流程信息网",
+                            "url": "https://splcgk.court.gov.cn/gzfwww/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 162,
+                            "name": "中国审判流程信息公开网",
+                            "url": "https://splcgk.court.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 163,
+                            "name": "中国执行信息公开网",
+                            "url": "http://zxgk.court.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 164,
+                            "name": "人民法院诉讼资产网",
+                            "url": "https://www.rmfysszc.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 165,
+                            "name": "破产重整案件信息查询",
+                            "url": "https://pccz.court.gov.cn/pcajxxw/index/xxwsy",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 166,
+                            "name": "政府采购严重违法失信行为信息记录",
+                            "url": "http://www.ccgp.gov.cn/search/cr/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 167,
+                            "name": "重大税收违法失信案件信息公布栏",
+                            "url": "https://www.chinatax.gov.cn/chinatax/c101249/n2020011502/index.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 168,
+                            "name": "中国资本市场信息披露平台",
+                            "url": "http://xinpi.cs.com.cn/page/xp/index.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 169,
+                            "name": "中国质量认证中心",
+                            "url": "https://www.cqc.com.cn/www/chinese/index.shtml",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 170,
+                            "name": "商务部拍卖信息查询",
+                            "url": "http://app.gjzwfw.gov.cn/jmopen/webapp/html5/swbpmqycx/index.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 171,
+                            "name": "机关赋码和事业单位登记管理网",
+                            "url": "http://www.gjsy.gov.cn/tzgg/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 172,
+                            "name": "HKEXnews披露易",
+                            "url": "https://www.hkexnews.hk/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 173,
+                            "name": "阿里拍卖·司法",
+                            "url": "https://sf.taobao.com/",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 12,
+                    "name": "查主体",
+                    "siteList": [
+                        {
+                            "id": 174,
+                            "name": "国家企业信用信息公示系统",
+                            "url": "https://www.gsxt.gov.cn/index.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 175,
+                            "name": "全国组织机构统一社会信用代码公式查询",
+                            "url": "https://www.cods.org.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 176,
+                            "name": "天眼查",
+                            "url": "https://www.tianyancha.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 177,
+                            "name": "企查查",
+                            "url": "https://www.qcc.com",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 178,
+                            "name": "爱企查",
+                            "url": "https://aiqicha.baidu.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 179,
+                            "name": "启信宝",
+                            "url": "https://www.qixin.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 180,
+                            "name": "商事登记簿查询（商事主体登记及备案信息查询）",
+                            "url": "https://amr.sz.gov.cn/outer/entSelect/gs.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 181,
+                            "name": "小微企业名录",
+                            "url": "https://xwqy.gsxt.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 182,
+                            "name": "工会组织查询",
+                            "url": "https://frdj.acftu.org/sso/login.jsp",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 183,
+                            "name": "社会团体查询",
+                            "url": "http://app.gjzwfw.gov.cn/jmopen/webapp/html5/qgshttcx/index.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 184,
+                            "name": "基金会查询",
+                            "url": "http://app.gjzwfw.gov.cn/jmopen/webapp/html5/qgjjhcx/index.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 185,
+                            "name": "外国商会查询",
+                            "url": "http://app.gjzwfw.gov.cn/jmopen/webapp/html5/wgshcx/index.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 186,
+                            "name": "信用视界",
+                            "url": "https://www.x315.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 187,
+                            "name": "经营范围查询",
+                            "url": "https://zj.jyfwyun.com/home",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 188,
+                            "name": "信用中国",
+                            "url": "https://www.creditchina.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 189,
+                            "name": "中国社会组织政务服务平台",
+                            "url": "https://chinanpo.mca.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 190,
+                            "name": "中国基金协会",
+                            "url": "https://gs.amac.org.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 191,
+                            "name": "中国海关企业进出口信用信息公示平台",
+                            "url": "http://credit.customs.gov.cn/",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 13,
+                    "name": "查征信、查身份",
+                    "siteList": [
+                        {
+                            "id": 192,
+                            "name": "全国法院失信被执行人名单信息公布与查询",
+                            "url": "http://zxgk.court.gov.cn/shixin/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 193,
+                            "name": "全国律师诚信信息公示平台",
+                            "url": "https://credit.acla.org.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 194,
+                            "name": "中国人民银行征信中心",
+                            "url": "http://www.pbccrc.org.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 195,
+                            "name": "外商投资诚信信息公示",
+                            "url": "https://wzzxbs.mofcom.gov.cn/gspt/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 196,
+                            "name": "中国海关企业进出口信用信息公示",
+                            "url": "http://credit.customs.gov.cn/ccppwebserver/pages/ccpp/html/ccppindex.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 197,
+                            "name": "证券期货市场失信记录查询平台",
+                            "url": "https://neris.csrc.gov.cn/shixinchaxun/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 198,
+                            "name": "阿里巴巴企业诚信体系",
+                            "url": "https://credit.alibaba.com",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 199,
+                            "name": "绿盾企业征信系统",
+                            "url": "https://www.11315.com",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 200,
+                            "name": "学信网",
+                            "url": "https://www.chsi.com.cn",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 14,
+                    "name": "查动产、不动产",
+                    "siteList": [
+                        {
+                            "id": 201,
+                            "name": "深圳不动产登记中心",
+                            "url": "https://pnr.sz.gov.cn/ywzy/bdcdj/szbdc/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 202,
+                            "name": "广州不动产登记查询",
+                            "url": "http://ghzyj.gz.gov.cn/ywpd/bdcdj/index.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 203,
+                            "name": "北京不动产登记网上办事服务平台",
+                            "url": "http://bdc.ghzrzyw.beijing.gov.cn/eo/wizard/mainMenu.go",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 204,
+                            "name": "动产融资统一登记公示系统",
+                            "url": "https://www.zhongdengwang.org.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 205,
+                            "name": "中国自然资源部",
+                            "url": "https://www.mnr.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 206,
+                            "name": "全国土地估价监管系统",
+                            "url": "https://tdgj.mnr.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 207,
+                            "name": "全国工程项目数据",
+                            "url": "https://jzsc.mohurd.gov.cn/data/project",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 208,
+                            "name": "全国建筑市场监管公共服务平台",
+                            "url": "https://jzsc.mohurd.gov.cn/home",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 209,
+                            "name": "全国征地信息共享平台",
+                            "url": "http://z.mnr.gov.cn/",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 15,
+                    "name": "查资质",
+                    "siteList": [
+                        {
+                            "id": 210,
+                            "name": "中国质量认证中心",
+                            "url": "https://www.cqc.com.cn/www/chinese/index.shtml",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 211,
+                            "name": "建筑工程施工许可证电子证照查询",
+                            "url": "https://jzsc.mohurd.gov.cn/data/elePermit",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 212,
+                            "name": "全国建设工程企业资质查询",
+                            "url": "http://www.zhujianz.com/zhujianz/search/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 213,
+                            "name": "食品生产许可证查询",
+                            "url": "http://spscxkcx.gsxt.gov.cn/spscxk/spscxkindex.xhtml",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 214,
+                            "name": "特殊食品信息查询平台",
+                            "url": "http://ypzsx.gsxt.gov.cn/specialfood/#/food",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 215,
+                            "name": "全国快递业务许可",
+                            "url": "https://zwfw.spb.gov.cn/xkqy",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 216,
+                            "name": "全国排污许可证",
+                            "url": "http://permit.mee.gov.cn/perxxgkinfo/syssb/xxgk/xxgk!sqqlist.action",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 217,
+                            "name": "商业特许经营信息",
+                            "url": "http://txjy.syggs.mofcom.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 218,
+                            "name": "质量证书查询",
+                            "url": "https://www.cqc.com.cn/www/chinese/zscx/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 219,
+                            "name": "技能证书查询",
+                            "url": "http://zscx.osta.org.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 220,
+                            "name": "安标国家矿用产品安全标志中心",
+                            "url": "https://www.aqbz.org/#/home",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 221,
+                            "name": "中国合格评定国家认可委员会",
+                            "url": "https://www.jufadh.com/g/93",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 222,
+                            "name": "高新技术企业认定管理工作网",
+                            "url": "http://www.innocom.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 223,
+                            "name": "电信业务市场综合信息管理",
+                            "url": "https://tsm.miit.gov.cn/dxxzsp/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 224,
+                            "name": "信息通信建设服务能力管理系统",
+                            "url": "https://www.tzr.org.cn/iisp/enterpriseQualificationForeign",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 225,
+                            "name": "国家新闻出版署",
+                            "url": "https://www.nppa.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 226,
+                            "name": "中国演出行业协会",
+                            "url": "https://www.capa.com.cn/base/qualifi",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 227,
+                            "name": "中国记者网",
+                            "url": "https://press.nppa.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 228,
+                            "name": "全国认证认可信息查询",
+                            "url": "http://cx.cnca.cn/CertECloud/index/index/page",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 229,
+                            "name": "全国矿业权人勘查开采信息公示系统",
+                            "url": "https://kyqgs.mnr.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 230,
+                            "name": "中国银保监会许可证查询",
+                            "url": "https://xkz.cbirc.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 231,
+                            "name": "中食药监管信息查询平台",
+                            "url": "http://cfdacx.com/index.aspx",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 232,
+                            "name": "动产融资统一登记公示系统",
+                            "url": "https://www.zhongdengwang.org.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 233,
+                            "name": "全国市场监管动产抵押登记业务系统",
+                            "url": "http://dcdy.gsxt.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 234,
+                            "name": "中国土地市场网",
+                            "url": "https://www.landchina.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 235,
+                            "name": "金融许可证信息查询",
+                            "url": "https://xkz.cbirc.gov.cn/jr/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 236,
+                            "name": "全国建筑市场监管公共服务平台",
+                            "url": "https://jzsc.mohurd.gov.cn/home",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 237,
+                            "name": "全国特种设备公示信息查询平台",
+                            "url": "http://www.samos.org.cn/cnse/index.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 238,
+                            "name": "单位资质查询（建设工程领域）",
+                            "url": "https://www.mohurd.gov.cn/wbdt/dwzzcx/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 239,
+                            "name": "商务部业务系统统一平台",
+                            "url": "https://ecomp.mofcom.gov.cn/loginCorp.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 240,
+                            "name": "全国排污许可证管理信息平台（公开端）",
+                            "url": "http://permit.mee.gov.cn/permitExt/defaults/default-index!getInformation.action",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 241,
+                            "name": "全国认证认可信息公共服务平台",
+                            "url": "http://cx.cnca.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 242,
+                            "name": "实验动物许可证查询管理系统",
+                            "url": "https://www.lascn.com/permit/searchpermit.aspx",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 243,
+                            "name": "全国工程质量安全监管信息平台",
+                            "url": "https://zlaq.mohurd.gov.cn/fwmh/bjxcjgl/fwmh/pages/default/index.html",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 16,
+                    "name": "模板",
+                    "siteList": [
+                        {
+                            "id": 244,
+                            "name": "最高人民法院诉讼文书样式",
+                            "url": "https://www.court.gov.cn/susong.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 245,
+                            "name": "合同模板库",
+                            "url": "https://mecheck.net.cn/home/serviceAndSupport/contractTemplate",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 246,
+                            "name": "法邦法律文书范本",
+                            "url": "https://www.fabao365.com/flws/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 247,
+                            "name": "合同示范文本库",
+                            "url": "https://cont.12315.cn/",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 17,
+                    "name": "数据报告查询",
+                    "siteList": [
+                        {
+                            "id": 248,
+                            "name": "国家统计局",
+                            "url": "http://www.stats.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 249,
+                            "name": "发现报告",
+                            "url": "https://www.fxbaogao.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 250,
+                            "name": "洞见研报",
+                            "url": "https://www.djyanbao.com/index",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 251,
+                            "name": "36氪研究院",
+                            "url": "https://36kr.com/user/2087746251",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 252,
+                            "name": "艾瑞网",
+                            "url": "https://report.iresearch.cn/",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 18,
+                    "name": "小工具",
+                    "siteList": [
+                        {
+                            "id": 253,
+                            "name": "手机号归属地查询",
+                            "url": "https://tool.lu/mobile/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 254,
+                            "name": "身份证号查询",
+                            "url": "http://shenfenzheng.293.net",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 255,
+                            "name": "诉讼工具",
+                            "url": "http://weifayuan.court.gov.cn/gjzs2.0/pages/tool.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 256,
+                            "name": "天数计算",
+                            "url": "https://wannianli.tianqi.com/jisuanqi/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 257,
+                            "name": "年龄计算器",
+                            "url": "https://shijisuishu.bmcx.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 258,
+                            "name": "汇率计算",
+                            "url": "http://hl.anseo.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 259,
+                            "name": "房贷计算器",
+                            "url": "https://www.fangdaijisuanqi.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 260,
+                            "name": "个税计算器",
+                            "url": "http://geshui.ttvz.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 261,
+                            "name": "银行卡号归属信息查询",
+                            "url": "https://yinhangkahao.com/",
+                            "favicon": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "知识产权",
+            "groupList": [
+                {
+                    "id": 19,
+                    "name": "知产保护",
+                    "siteList": [
+                        {
+                            "id": 262,
+                            "name": "国家知识产权局",
+                            "url": "https://www.cnipa.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 263,
+                            "name": "国家版权局",
+                            "url": "http://www.ncac.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 264,
+                            "name": "中国版权保护中心",
+                            "url": "https://www.ccopyright.com.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 265,
+                            "name": "知识产权司法保护网",
+                            "url": "https://www.chinaiprlaw.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 266,
+                            "name": "中国保护知识产权网",
+                            "url": "http://ipr.mofcom.gov.cn/index.shtml",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 267,
+                            "name": "中国知识产权网",
+                            "url": "http://www.cnipr.com",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 268,
+                            "name": "中国知识产权研究会",
+                            "url": "http://www.cnips.org.cn/",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 20,
+                    "name": "查商标??",
+                    "siteList": [
+                        {
+                            "id": 269,
+                            "name": "中国商标网",
+                            "url": "http://sbj.cnipa.gov.cn/sbj/index.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 270,
+                            "name": "地理标志产品检索",
+                            "url": "https://dlbzsl.hizhuanli.cn:8888/Product/Search",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 271,
+                            "name": "商标分类查询",
+                            "url": "http://www.sbfl.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 272,
+                            "name": "路标网",
+                            "url": "https://www.chatm.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 273,
+                            "name": "摩知轮",
+                            "url": "https://www.mozlen.com",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 274,
+                            "name": "知产宝",
+                            "url": "https://www.iphouse.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 275,
+                            "name": "标库网",
+                            "url": "https://www.tmkoo.com",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 276,
+                            "name": "飙局",
+                            "url": "https://www.biaoju01.com",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 277,
+                            "name": "权大师",
+                            "url": "https://www.quandashi.com",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 278,
+                            "name": "国家知识产权局(商标)",
+                            "url": "https://www.cnipa.gov.cn/col/col114/index.html",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 21,
+                    "name": "查专利",
+                    "siteList": [
+                        {
+                            "id": 279,
+                            "name": "国家知识产权局(专利)",
+                            "url": "https://www.cnipa.gov.cn/col/col1510/index.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 280,
+                            "name": "中国专利信息中心",
+                            "url": "https://www.cnpat.com.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 281,
+                            "name": "中国专利信息网",
+                            "url": "https://www.patent.com.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 282,
+                            "name": "中国及多国专利审查信息查询",
+                            "url": "http://cpquery.cnipa.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 283,
+                            "name": "全国专利代理信息公示平台",
+                            "url": "http://dlgl.cnipa.gov.cn/txnqueryAgent.do",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 284,
+                            "name": "全国知识产权质押信息平台",
+                            "url": "https://zscq.creditchina.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 285,
+                            "name": "中国专利保护协会",
+                            "url": "http://www.ppac.org.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 286,
+                            "name": "专利之星",
+                            "url": "https://cprs.patentstar.com.cn/Search/Index",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 287,
+                            "name": "佰腾网",
+                            "url": "https://www.baiten.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 288,
+                            "name": "企知道",
+                            "url": "https://www.qizhidao.com",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 289,
+                            "name": "WIPO国际专利",
+                            "url": "https://www.wipo.int/portal/en/index.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 290,
+                            "name": "专利搜索引擎",
+                            "url": "http://www2.soopat.com/",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 22,
+                    "name": "其他查询",
+                    "siteList": [
+                        {
+                            "id": 291,
+                            "name": "国家知识产权局(地理标志)",
+                            "url": "https://www.cnipa.gov.cn/col/col116/index.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 292,
+                            "name": "国家知识产权局(集成电路布图设计)",
+                            "url": "https://www.cnipa.gov.cn/col/col117/index.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 293,
+                            "name": "全国作品登记信息公示查询",
+                            "url": "http://qgzpdj.ccopyright.com.cn/index.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 294,
+                            "name": "360查字体",
+                            "url": "https://fonts.safe.360.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 295,
+                            "name": "企查查查询知识产权",
+                            "url": "https://verify.qcc.com/405.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 296,
+                            "name": "自由字体",
+                            "url": "https://ziyouziti.com/index-index-check.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 297,
+                            "name": "电信业务市场综合管理信息系统",
+                            "url": "https://tsm.miit.gov.cn/dxxzsp/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 298,
+                            "name": "ICP/IP备案管理系统",
+                            "url": "https://beian.miit.gov.cn/#/Integrated/index",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 299,
+                            "name": "浦东信息港",
+                            "url": "http://beian.pdxx.net",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 300,
+                            "name": "中国互联网络信息中心",
+                            "url": "https://www.cnnic.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 301,
+                            "name": "WHOIS",
+                            "url": "https://webwhois.cnnic.cn/WelcomeServlet",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 302,
+                            "name": "站长之家",
+                            "url": "https://icp.chinaz.com:443/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 303,
+                            "name": "阿里域名查询",
+                            "url": "https://whois.aliyun.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 304,
+                            "name": "聚查网",
+                            "url": "http://www.jucha.com",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 305,
+                            "name": "邮编库",
+                            "url": "https://www.youbianku.com/%E9%A6%96%E9%A1%B5",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 306,
+                            "name": "OSLAW尽调网站",
+                            "url": "https://www.oslaw.net/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 307,
+                            "name": "全国作品登记信息数据库管理平台",
+                            "url": "http://qgzpdj.ccopyright.com.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 308,
+                            "name": "国家科技成果信息服务平台",
+                            "url": "https://www.tech110.net/portal.php?mod=list&catid=538",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 309,
+                            "name": "知产法网",
+                            "url": "http://www.chinaiprlaw.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 310,
+                            "name": "权搜索",
+                            "url": "https://so.quandashi.com/",
+                            "favicon": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "资本市场",
+            "groupList": [
+                {
+                    "id": 23,
+                    "name": "数据金融",
+                    "siteList": [
+                        {
+                            "id": 311,
+                            "name": "巨潮网",
+                            "url": "http://www.cninfo.com.cn/new/index",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 312,
+                            "name": "荣大二郎神",
+                            "url": "https://doc.rongdasoft.com",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 313,
+                            "name": "见微数据",
+                            "url": "https://www.jianweidata.com",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 314,
+                            "name": "同花顺iFind",
+                            "url": "https://www.51ifind.com",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 315,
+                            "name": "东方财富Choice金融终端",
+                            "url": "https://choice.eastmoney.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 316,
+                            "name": "Dealogic",
+                            "url": "https://dealogic.com",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 317,
+                            "name": "万得金融终端",
+                            "url": "https://www.wind.com.cn/NewSite/wft.html",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 24,
+                    "name": "资本信息",
+                    "siteList": [
+                        {
+                            "id": 318,
+                            "name": "中国证券监督管理委员会",
+                            "url": "http://www.csrc.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 319,
+                            "name": "北京证券交易所",
+                            "url": "https://www.bse.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 320,
+                            "name": "上海证券交易所",
+                            "url": "http://www.sse.com.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 321,
+                            "name": "深圳证券交易所",
+                            "url": "http://www.szse.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 322,
+                            "name": "全国境外投资管理和服务网络系统",
+                            "url": "http://jwtz.ndrc.gov.cn/jwtz-ex/index.action",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 323,
+                            "name": "北京金融资产交易所",
+                            "url": "https://www.cfae.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 324,
+                            "name": "证券公司私募投资基金查询",
+                            "url": "https://gs.amac.org.cn/amac-infodisc/res/pof/subfund/index.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 325,
+                            "name": "私募基金管理人综合查询",
+                            "url": "https://gs.amac.org.cn/amac-infodisc/res/pof/manager/index.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 326,
+                            "name": "财政部全国财政电子票据查验平台",
+                            "url": "http://pjcy.mof.gov.cn/#/home",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 327,
+                            "name": "证券期货市场失信记录查询平台",
+                            "url": "https://neris.csrc.gov.cn/shixinchaxun/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 328,
+                            "name": "中国外汇交易中心",
+                            "url": "https://www.chinamoney.com.cn/chinese/index.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 329,
+                            "name": "资本市场电子化信息披露平台",
+                            "url": "http://eid.csrc.gov.cn/nlpc",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 330,
+                            "name": "香港联交所",
+                            "url": "https://www.hkexnews.hk/index_c.htm",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 331,
+                            "name": "中国结算",
+                            "url": "http://www.chinaclear.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 332,
+                            "name": "台湾证券交易所",
+                            "url": "https://mops.twse.com.tw/mops/web/t51sb10_q1",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 333,
+                            "name": "伦敦交易所",
+                            "url": "https://www.londonstockexchange.com",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 334,
+                            "name": "新加坡交易所",
+                            "url": "https://www.sgx.com/zh-hans/securities/company-announcements",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 335,
+                            "name": "全国中小企业股份转让系统",
+                            "url": "https://www.neeq.com.cn/index.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 336,
+                            "name": "财政部全国电子票据查验中心",
+                            "url": "http://pjcy.mof.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 337,
+                            "name": "新三板",
+                            "url": "https://www.neeq.com.cn/disclosure/overview_information.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 338,
+                            "name": "基金会查询",
+                            "url": "http://app.gjzwfw.gov.cn/jmopen/webapp/html5/qgjjhcx/index.html",
+                            "favicon": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "官方网站",
+            "groupList": [
+                {
+                    "id": 25,
+                    "name": "人民法院",
+                    "siteList": [
+                        {
+                            "id": 339,
+                            "name": "最高人民法院",
+                            "url": "https://www.court.gov.cn/index.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 340,
+                            "name": "最高人民法院诉讼服务网",
+                            "url": "https://ssfw.court.gov.cn/ssfww/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 341,
+                            "name": "最高人民法院国际商事法庭",
+                            "url": "https://cicc.court.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 342,
+                            "name": "最高人民法院知识产权法庭",
+                            "url": "https://ipc.court.gov.cn/zh-cn/index.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 343,
+                            "name": "第一巡回法庭",
+                            "url": "https://www.court.gov.cn/xunhui1.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 344,
+                            "name": "第二巡回法庭",
+                            "url": "https://www.court.gov.cn/xunhui2.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 345,
+                            "name": "第三巡回法庭",
+                            "url": "https://www.court.gov.cn/xunhui3.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 346,
+                            "name": "第四巡回法庭",
+                            "url": "https://www.court.gov.cn/xunhui4.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 347,
+                            "name": "第五巡回法庭",
+                            "url": "https://www.court.gov.cn/xunhui5.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 348,
+                            "name": "第六巡回法庭",
+                            "url": "https://www.court.gov.cn/xunhui6.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 349,
+                            "name": "最高院司法解释",
+                            "url": "https://www.court.gov.cn/fabu-gengduo-16.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 350,
+                            "name": "中国法院网",
+                            "url": "https://www.chinacourt.org/index.shtml",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 351,
+                            "name": "全国人民法庭信息网",
+                            "url": "https://rmft.court.gov.cn/0/index.jhtml",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 26,
+                    "name": "检察监察",
+                    "siteList": [
+                        {
+                            "id": 352,
+                            "name": "最高人民检察院",
+                            "url": "https://www.spp.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 353,
+                            "name": "中国检察网",
+                            "url": "https://www.12309.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 354,
+                            "name": "中央纪委国家监察委",
+                            "url": "https://www.ccdi.gov.cn",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 27,
+                    "name": "政府官网",
+                    "siteList": [
+                        {
+                            "id": 355,
+                            "name": "中国人大网",
+                            "url": "http://www.npc.gov.cn/npc/index.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 356,
+                            "name": "国务院",
+                            "url": "https://www.gov.cn/gwyzzjg/zuzhi/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 357,
+                            "name": "中央政法委",
+                            "url": "http://www.chinapeace.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 358,
+                            "name": "司法部（政府法制信息网）",
+                            "url": "http://www.chinalaw.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 359,
+                            "name": "12348中国法网",
+                            "url": "http://www.12348.gov.cn/#/homepage",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 360,
+                            "name": "国家发改委",
+                            "url": "https://www.ndrc.gov.cn/?code=&state=123",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 361,
+                            "name": "工信部",
+                            "url": "https://www.miit.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 362,
+                            "name": "财政部",
+                            "url": "http://www.mof.gov.cn/index.htm",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 363,
+                            "name": "自然资源部",
+                            "url": "https://www.mnr.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 364,
+                            "name": "生态环境部",
+                            "url": "https://www.mee.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 365,
+                            "name": "商务部",
+                            "url": "http://www.mofcom.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 366,
+                            "name": "水利部",
+                            "url": "http://www.mwr.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 367,
+                            "name": "卫健委",
+                            "url": "http://www.nhc.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 368,
+                            "name": "中国人民银行",
+                            "url": "http://www.pbc.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 369,
+                            "name": "住房和城乡建设部",
+                            "url": "https://www.mohurd.gov.cn/index.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 370,
+                            "name": "国家统计局",
+                            "url": "http://www.stats.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 371,
+                            "name": "国家市场监督管理总局",
+                            "url": "https://www.samr.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 372,
+                            "name": "国家药品监督管理局",
+                            "url": "https://www.nmpa.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 373,
+                            "name": "国家卫生健康委员会",
+                            "url": "http://www.nhc.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 374,
+                            "name": "国家标准化管理委员会",
+                            "url": "http://www.sac.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 375,
+                            "name": "国家广播电视总局",
+                            "url": "http://www.nrta.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 376,
+                            "name": "人力资源和社会保障部",
+                            "url": "http://www.mohrss.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 377,
+                            "name": "工业和信息化部",
+                            "url": "https://www.miit.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 378,
+                            "name": "审计署",
+                            "url": "https://www.audit.gov.cn",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 28,
+                    "name": "行业协会",
+                    "siteList": [
+                        {
+                            "id": 379,
+                            "name": "中国法学会",
+                            "url": "http://www.chinalaw.org.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 380,
+                            "name": "中国律师网",
+                            "url": "http://www.acla.org.cn/home/toPage",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 381,
+                            "name": "全国工商业联合会",
+                            "url": "http://www.acfic.org.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 382,
+                            "name": "中国商业联合会",
+                            "url": "http://www.cgcc.org.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 383,
+                            "name": "中国保险行业协会",
+                            "url": "http://www.iachina.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 384,
+                            "name": "中国银行业协会",
+                            "url": "https://www.china-cba.net/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 385,
+                            "name": "中国演出行业协会",
+                            "url": "https://www.capa.com.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 386,
+                            "name": "中国专利保护协会",
+                            "url": "http://www.ppac.org.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 387,
+                            "name": "中国外服协会",
+                            "url": "http://www.cafst.org.cn/cafst/index.asp",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 388,
+                            "name": "中国软件行业协会",
+                            "url": "https://www.csia.org.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 389,
+                            "name": "中国证券投资基金业协会",
+                            "url": "https://www.amac.org.cn/",
+                            "favicon": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "学术资源",
+            "groupList": [
+                {
+                    "id": 29,
+                    "name": "文献检索",
+                    "siteList": [
+                        {
+                            "id": 390,
+                            "name": "中国知网",
+                            "url": "https://www.cnki.net",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 391,
+                            "name": "中国法学网",
+                            "url": "http://iolaw.cssn.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 392,
+                            "name": "聚法案例",
+                            "url": "https://www.jufaanli.com",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 393,
+                            "name": "北大法宝",
+                            "url": "https://www.pkulaw.com",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 394,
+                            "name": "人大复印资料",
+                            "url": "http://ipub.exuezhe.com/qw.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 395,
+                            "name": "万方数据库",
+                            "url": "https://www.wanfangdata.com.cn/index.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 396,
+                            "name": "维普数据库",
+                            "url": "http://www.cqvip.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 397,
+                            "name": "清华大学图书馆",
+                            "url": "https://lib.tsinghua.edu.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 398,
+                            "name": "月旦法学知识库",
+                            "url": "https://www.lawdata01.com.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 399,
+                            "name": "民国文献大全",
+                            "url": "https://cadal.hytung.com.cn/Main.aspx",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 400,
+                            "name": "法意",
+                            "url": "https://www.lawyee.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 401,
+                            "name": "九章",
+                            "url": "http://www.classiclaw.com/#/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 402,
+                            "name": "百度学术",
+                            "url": "https://xueshu.baidu.com",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 403,
+                            "name": "搜狗学术",
+                            "url": "https://www.sogou.com/?fr=scholar",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 404,
+                            "name": "鸠摩搜索",
+                            "url": "https://www.jiumodiary.com/",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 30,
+                    "name": "外国文献",
+                    "siteList": [
+                        {
+                            "id": 405,
+                            "name": "哈佛法律评论",
+                            "url": "https://harvardlawreview.org",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 406,
+                            "name": "牛津法律研究",
+                            "url": "https://academic.oup.com/ojls?login=false",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 407,
+                            "name": "耶鲁法律杂志",
+                            "url": "https://www.thepocketpart.org",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 408,
+                            "name": "欧盟法律数据库",
+                            "url": "https://european-union.europa.eu/index_en",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 409,
+                            "name": "前南国际刑事法庭数据库",
+                            "url": "https://www.icty.org/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 410,
+                            "name": "美国比较研究杂志",
+                            "url": "https://metapress.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 411,
+                            "name": "美国社会科学文献SSRN",
+                            "url": "https://papers.ssrn.com/sol3/DisplayAbstractSearch.cfm",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 412,
+                            "name": "德国法杂志",
+                            "url": "https://germanlawjournal.com",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 413,
+                            "name": "法国法律查询",
+                            "url": "https://www.legifrance.gouv.fr",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 414,
+                            "name": "芝加哥大学法律评论",
+                            "url": "https://www.journals.uchicago.edu/toc/jle/current",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 415,
+                            "name": "哥伦比亚大学法律评论",
+                            "url": "https://columbialawreview.org",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 31,
+                    "name": "刑、民商、诉讼法",
+                    "siteList": [
+                        {
+                            "id": 416,
+                            "name": "中国人民大学刑事法律科学研究中心",
+                            "url": "http://www.criminallaw.com.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 417,
+                            "name": "中国刑事诉讼法律网",
+                            "url": "http://cacpl.chinalaw.org.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 418,
+                            "name": "中国民商法律网",
+                            "url": "http://www.civillaw.com.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 419,
+                            "name": "中国商法网",
+                            "url": "http://www.commerciallaw.com.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 420,
+                            "name": "劳动法宝网",
+                            "url": "http://www.51labour.com/law/index",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 32,
+                    "name": "宪法、法理、行政法",
+                    "siteList": [
+                        {
+                            "id": 421,
+                            "name": "中国宪政网",
+                            "url": "http://www.calaw.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 422,
+                            "name": "中国理论法学研究信息网",
+                            "url": "https://www.legal-theory.org",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 423,
+                            "name": "司法文明理论协同创新中心数据库",
+                            "url": "http://www.cicjc.com.cn",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 33,
+                    "name": "法律学习",
+                    "siteList": [
+                        {
+                            "id": 424,
+                            "name": "司法部",
+                            "url": "http://www.moj.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 425,
+                            "name": "Just Laws",
+                            "url": "https://www.justlaws.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 426,
+                            "name": "法政西南",
+                            "url": "https://publish.obsidian.md/wanyulawyer/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 427,
+                            "name": "法律图书馆",
+                            "url": "http://www.law-lib.com/lw/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 428,
+                            "name": "中国刑事法律网",
+                            "url": "http://www.criminallaw.com.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 429,
+                            "name": "北大法律英语网",
+                            "url": "http://www.lawinfochina.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 430,
+                            "name": "民商法律网",
+                            "url": "http://www.civillaw.com.cn/",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 34,
+                    "name": "国际法、罗马法、经济法",
+                    "siteList": [
+                        {
+                            "id": 431,
+                            "name": "武汉大学国际法研究所",
+                            "url": "http://translaw.whu.edu.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 432,
+                            "name": "北大人权与人道法研究中心",
+                            "url": "https://www.law.pku.edu.cn/ky/kyjg1/xtjg1/10896.htm",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 433,
+                            "name": "厦门大学罗马法研究院",
+                            "url": "http://www.romanlaw.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 434,
+                            "name": "RomanLawResources",
+                            "url": "http://iuscivile.com",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 435,
+                            "name": "经济法网",
+                            "url": "http://www.cel.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 436,
+                            "name": "中国国际经济法学会",
+                            "url": "http://csiel.org/index.aspx",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 437,
+                            "name": "中国财税法网",
+                            "url": "http://www.taxlaw.net.cn",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 35,
+                    "name": "涉外、港澳台相关",
+                    "siteList": [
+                        {
+                            "id": 438,
+                            "name": "最高人民法院国际商事法庭",
+                            "url": "https://cicc.court.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 439,
+                            "name": "商务部全球法律",
+                            "url": "http://policy.mofcom.gov.cn/jwfg/index.shtml",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 440,
+                            "name": "中华人民共和国商务部对外投资和经济合作司网站",
+                            "url": "http://hzs.mofcom.gov.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 441,
+                            "name": "中国国际经济贸易仲裁委员会",
+                            "url": "http://www.cietac.org/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 442,
+                            "name": "深圳国际仲裁院",
+                            "url": "http://www.scia.com.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 443,
+                            "name": "域外法查明平台",
+                            "url": "https://cicc.court.gov.cn/html/1/218/347/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 444,
+                            "name": "蓝海法律查明",
+                            "url": "http://www.bcisz.org",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 445,
+                            "name": "商务部走出去公共服务平台",
+                            "url": "http://fec.mofcom.gov.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 446,
+                            "name": "外商投资信息报告公示",
+                            "url": "https://wzxxbg.mofcom.gov.cn/gspt/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 447,
+                            "name": "商务部对外承包工程经营主体查询",
+                            "url": "http://app.gjzwfw.gov.cn/jmopen/webapp/html5/swbdwcbgcjyztcx/index.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 448,
+                            "name": "联合国国际贸易法委员会",
+                            "url": "https://uncitral.un.org/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 449,
+                            "name": "WTO",
+                            "url": "https://www.wto.org",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 450,
+                            "name": "海牙国际私法协会",
+                            "url": "https://www.hcch.net",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 451,
+                            "name": "OLA条约",
+                            "url": "https://www.un.org/ola/en",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 452,
+                            "name": "国际货币基金组织",
+                            "url": "https://www.imf.org/en/Home",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 453,
+                            "name": "世界银行",
+                            "url": "https://www.worldbank.org/en/home",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 454,
+                            "name": "Westlaw数据库",
+                            "url": "https://www.westlawinternational.com",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 455,
+                            "name": "LwxisNexis数据库",
+                            "url": "https://www.lexisnexis.com/en-us/gateway.page",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 456,
+                            "name": "美国司法部",
+                            "url": "https://www.justice.gov/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 457,
+                            "name": "Oyez美国最高院案例档案库",
+                            "url": "https://www.oyez.org",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 458,
+                            "name": "FindLaw美国找法网",
+                            "url": "https://www.findlaw.com",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 459,
+                            "name": "德国宪法法院",
+                            "url": "https://www.bundesverfassungsgericht.de/error_path/400.html?al_req_id=ZTUy9XUrmNkTjiZAOMUvbQAABT0",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 460,
+                            "name": "德国裁判文书网",
+                            "url": "https://www.rechtsprechung-im-internet.de/jportal/portal/page/bsjrsprod.psml",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 461,
+                            "name": "韩国宪法法院",
+                            "url": "https://www.ccourt.go.kr/site/kor/main.do",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 462,
+                            "name": "日本法务省",
+                            "url": "https://www.moj.go.jp",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 463,
+                            "name": "亚洲法律信息",
+                            "url": "http://www.asianlii.org/cn/legis/cen/laws/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 464,
+                            "name": "欧洲专利局",
+                            "url": "https://www.epo.org/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 465,
+                            "name": "德国专利商标局",
+                            "url": "https://www.dpma.de/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 466,
+                            "name": "美国专利商标局",
+                            "url": "https://www.uspto.gov/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 467,
+                            "name": "日本法务省网",
+                            "url": "http://www.moj.go.jp/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 468,
+                            "name": "英国制定法网",
+                            "url": "http://www.statutelaw.gov.uk",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 469,
+                            "name": "世界各国法律",
+                            "url": "https://www.lexadin.nl/wlg/legis/nofr/legis.php",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 470,
+                            "name": "美国法检索网",
+                            "url": "http://www.findlaw.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 471,
+                            "name": "英国法律大全",
+                            "url": "http://www.bailii.org/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 472,
+                            "name": "法国法律网站",
+                            "url": "https://www.legifrance.gouv.fr/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 473,
+                            "name": "联合国国际贸易法委员会数据库",
+                            "url": "http://www.uncitral.org/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 474,
+                            "name": "世界贸易组织数据库",
+                            "url": "http://www.worldtradelaw.net/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 475,
+                            "name": "世界知识产权组织数据库",
+                            "url": "http://www.wipo.org/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 476,
+                            "name": "美国国家版权局数据库",
+                            "url": "https://www.copyright.gov/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 477,
+                            "name": "美国联邦判例",
+                            "url": "http://www.findlaw.com/casecode",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 478,
+                            "name": "香港律政司",
+                            "url": "https://www.doj.gov.hk/eng/index.html",
+                            "favicon": ""
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "办公工具",
+            "groupList": [
+                {
+                    "id": 36,
+                    "name": "文档",
+                    "siteList": [
+                        {
+                            "id": 479,
+                            "name": "wps",
+                            "url": "https://www.wps.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 480,
+                            "name": "Onenote",
+                            "url": "https://www.microsoft.com/zh-cn/microsoft-365/onenote/digital-note-taking-app?ms.url=onenotecom&rtc=1",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 481,
+                            "name": "石墨",
+                            "url": "https://shimo.im/welcome",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 482,
+                            "name": "语雀",
+                            "url": "https://www.yuque.com",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 483,
+                            "name": "腾讯文档",
+                            "url": "https://docs.qq.com/desktop/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 484,
+                            "name": "飞书多维表格",
+                            "url": "https://www.feishu.cn/product/base",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 37,
+                    "name": "思维导图",
+                    "siteList": [
+                        {
+                            "id": 485,
+                            "name": "Xmind",
+                            "url": "https://xmind.cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 486,
+                            "name": "百度脑图",
+                            "url": "https://naotu.baidu.com",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 487,
+                            "name": "Process On",
+                            "url": "https://www.processon.com",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 488,
+                            "name": "幕布",
+                            "url": "https://mubu.com/home",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 38,
+                    "name": "云盘",
+                    "siteList": [
+                        {
+                            "id": 489,
+                            "name": "坚果云",
+                            "url": "https://www.jianguoyun.com",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 490,
+                            "name": "Onedrive",
+                            "url": "https://www.microsoft.com/zh-cn/microsoft-365/onedrive/online-cloud-storage",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 491,
+                            "name": "微云",
+                            "url": "https://www.weiyun.com",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 39,
+                    "name": "效率工具",
+                    "siteList": [
+                        {
+                            "id": 492,
+                            "name": "Quicker",
+                            "url": "http://getquicker.net",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 40,
+                    "name": "OCR（文字识别）",
+                    "siteList": [
+                        {
+                            "id": 493,
+                            "name": "扫描全能王",
+                            "url": "https://www.camscanner.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 494,
+                            "name": "白猫",
+                            "url": "https://web.baimiaoapp.com",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 495,
+                            "name": "天若OCR识别",
+                            "url": "http://ocr.tianruo.net",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 41,
+                    "name": "PDF",
+                    "siteList": [
+                        {
+                            "id": 496,
+                            "name": "iLovePDF",
+                            "url": "https://www.ilovepdf.com/zh-cn",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 497,
+                            "name": "Speedpdf",
+                            "url": "https://speedpdf.com/zh-cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 498,
+                            "name": "smallpdf",
+                            "url": "https://smallpdf.com/",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 42,
+                    "name": "文本纠错",
+                    "siteList": [
+                        {
+                            "id": 499,
+                            "name": "聚法助手",
+                            "url": "https://www.jufaanli.com/lawyerdownload",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 500,
+                            "name": "秘塔写作猫",
+                            "url": "https://xiezuocat.com/#/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 501,
+                            "name": "法大大",
+                            "url": "https://www.fadada.com",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 43,
+                    "name": "电子存取证",
+                    "siteList": [
+                        {
+                            "id": 502,
+                            "name": "联合信任时间戳服务中心",
+                            "url": "https://www.tsa.cn/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 503,
+                            "name": "保全网",
+                            "url": "https://new.baoquan.com/",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 504,
+                            "name": "百度取证",
+                            "url": "https://quzheng.baidu.com/?force_login=true&u=http://quzheng.baidu.com/features.html&h=evidences/list",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 505,
+                            "name": "存证云",
+                            "url": "https://www.cunnar.com/login.html?redirectURL=http%3A%2F%2Fwww.cunnar.com%2Fprimary%2Findex.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 506,
+                            "name": "公正云",
+                            "url": "https://www.ezcun.com/evidence/showList.do",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 507,
+                            "name": "移动公正",
+                            "url": "https://www.4009991000.com",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 508,
+                            "name": "天平链",
+                            "url": "https://tpl.bjinternetcourt.gov.cn/tpl/#shen3",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 509,
+                            "name": "飞洛印",
+                            "url": "https://www.filoink.cn/home",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 44,
+                    "name": "专业翻译",
+                    "siteList": [
+                        {
+                            "id": 510,
+                            "name": "lexology",
+                            "url": "https://www.lexology.com",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 511,
+                            "name": "Deepl",
+                            "url": "https://www.deepl.com/translator",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 512,
+                            "name": "WIPO翻译",
+                            "url": "https://www.deepl.com/translator",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 513,
+                            "name": "TM class",
+                            "url": "http://tmclass.tmdn.org/ec2/translate/enterdata",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 514,
+                            "name": "有道翻译",
+                            "url": "http://fanyi.youdao.com/index.html",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 515,
+                            "name": "谷歌翻译",
+                            "url": "https://translate.google.cn",
+                            "favicon": ""
+                        }
+                    ]
+                },
+                {
+                    "id": 45,
+                    "name": "智能合同",
+                    "siteList": [
+                        {
+                            "id": 516,
+                            "name": "熊猫AI合同",
+                            "url": "http://aicontract.pandalaw.cn:81/ai-pc/#/user/login",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 517,
+                            "name": "Mecheck合同审查",
+                            "url": "https://mecheck.net.cn/home/homepage?source=5",
+                            "favicon": ""
+                        },
+                        {
+                            "id": 518,
+                            "name": "法天使",
+                            "url": "https://www.fatianshi.cn/",
+                            "favicon": ""
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
